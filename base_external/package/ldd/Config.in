@@ -1,0 +1,4 @@
+config BR2_PACKAGE_LDD
+	bool "ldd"
+	help
+	  This facilitates the construction and installation of the misc-modules and scull components within the kernel image's root filesystem.
